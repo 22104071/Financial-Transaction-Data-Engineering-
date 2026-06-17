@@ -14,8 +14,8 @@ Transaction-level feature engineering
 Automated ETL pipelines using SQLAlchemy
 Normalized MySQL warehouse design
 Reusable analytics-ready datasets
-Foundation for fraud detection and risk analytics applications
-**_Technology Stack:-_ **
+Foundation for fraud detection and risk analytics applications with
+**_Technology Stack:-_**
 **Programming:**
 Python
 **Data Processing:**
