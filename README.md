@@ -15,7 +15,7 @@ Automated ETL pipelines using SQLAlchemy
 Normalized MySQL warehouse design
 Reusable analytics-ready datasets
 Foundation for fraud detection and risk analytics applications
-_**Technology Stack :- **_
+**_Technology Stack:-_ **
 **Programming:**
 Python
 **Data Processing:**
