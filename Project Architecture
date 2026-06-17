@@ -1,0 +1,16 @@
+Raw Transaction Dataset
+           │
+           ▼
+Data Cleaning & Validation
+           │
+           ▼
+Customer Entity Generation
+           │
+           ▼
+Feature Engineering
+           │
+           ▼
+ETL Pipeline
+           │
+           ▼
+MySQL Data Warehouse
