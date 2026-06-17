@@ -16,15 +16,15 @@ Normalized MySQL warehouse design
 Reusable analytics-ready datasets
 Foundation for fraud detection and risk analytics applications
 _**Technology Stack**_
-**Programming**
+**Programming:**
 Python
-**Data Processing**
+**Data Processing:**
 Pandas
 NumPy
-**Database**
+**Databases:**
 MySQL
 SQLAlchemy
 PyMySQL
-**Environment**
+**Environments:**
 Google Colab
 Jupyter Notebook
